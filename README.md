@@ -1,20 +1,20 @@
-Du gamla du fria du fjällhöga nord,
-du tysta du glädjerika sköna,
-jag hälsar dig värnaste land uppå jord,
-din sol din himmel dina ängder gröna
-din sol din himmel dina ängder gröna
-Du tronar på minnen från fornstora dar,
-då ärat ditt namn flög över jorden,
-jag vet att du är och du blir vad du var,
-ja jag vill leva jag vill dö i norden
-ja jag vill leva jag vill dö i norden
-Jag städes vill tjäna mitt älskade land,
-dig trohet till döden vill jag svära
-din rätt skall jag värna med håg och med hand,
-din fana högt din bragderika bära
-din fana högt din bragderika bära
-Med Gud skall jag kämpa för hem och för härd
-för sverige den kära fosterjorden,
-jag byter dig ej mot allt i en värld,
-nej jag vill leva jag vill dö i norden
-nej jag vill leva jag vill dö i norden
+# **Hangman**
+
+Made by Allan Bäckman and Milkyas Habte
+
+Project started 2020-01-10
+
+Last commit 2020-01-10
+
+- Finnished:
+
+
+- To do:
+
+    Make a one vs one game. (One picks the word the other guesses)
+    
+    Create ASCII art.
+    
+    Create a one player mode. 
+    
+    Make a score system
