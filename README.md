@@ -11,7 +11,10 @@ Last commit 2020-01-10
 
 - To do:
 
-    Make a one vs one game. (One picks the word the other guesses)
+
+    Create word storage.
+    
+    Add guessing mechanic.
     
     Create ASCII art.
     

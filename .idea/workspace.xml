@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="" />
+    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1578651650146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Added ReadMe">
+      <created>1579165798649</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1579165798649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
