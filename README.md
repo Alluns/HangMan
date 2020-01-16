@@ -9,10 +9,10 @@ Last commit 2020-01-10
 - Finnished:
 
 
+    Create word storage.
+
 - To do:
 
-
-    Create word storage.
     
     Add guessing mechanic.
     
