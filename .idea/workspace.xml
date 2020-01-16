@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hangman.java" afterDir="false" />
+    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hangman/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hangman/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hangman" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +29,7 @@
   <component name="ProjectId" id="1W9XuFioDDX8pEk7wGDZX5tGYG7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MiddleWorth" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -66,6 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1578563004252</updated>
     </task>
+    <task id="LOCAL−00001" summary="Added ReadMe">
+      <created>1578651650146</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1578651650146</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Added ReadMe">
+      <created>1579165798649</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1579165798649</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Added ReadMe">
+      <created>1579166238701</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1579166238701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +105,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added ReadMe.md" />
+    <MESSAGE value="Added ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ReadMe" />
   </component>
 </project>
