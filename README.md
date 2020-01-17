@@ -6,7 +6,7 @@ Project started 2020-01-10
 
 Last commit 2020-01-10
 
-- Finnished:
+- Finished:
 
 
     Create word storage.
