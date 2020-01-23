@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +111,13 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1579773055530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Uppdated the READ.ME file">
+      <created>1579774432002</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1579774432002</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +139,7 @@
     <MESSAGE value="Added word storage" />
     <MESSAGE value="Tried and failed to add guessing" />
     <MESSAGE value="Tried and succeeded adding a guessing function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tried and succeeded adding a guessing function." />
+    <MESSAGE value="Uppdated the READ.ME file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdated the READ.ME file" />
   </component>
 </project>

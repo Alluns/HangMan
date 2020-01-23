@@ -35,3 +35,9 @@ Last commit 2020-01-10
     Make a score system
     
     Add a way for me to win every time (Possibly by picking a random letter in letters[i]
+    
+    fix the warning that the public class and static void are both named main.
+    
+    Show off that I know the hotest possible* temperature is about 131.7 quintilion degrees Kelvin.
+    
+    *Theoreticaly possible
