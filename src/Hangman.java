@@ -111,7 +111,6 @@ public class Hangman {
         ordList.add("curacao");             // At index 101
         ordList.add("instagram");           // At index 102
 
-        ordList.add("");          // At index 50
 
 
 
