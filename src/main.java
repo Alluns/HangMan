@@ -38,5 +38,7 @@ public class main {
         System.out.println(foundWord);
         //foundWord = new StringBuilder();
 
+        //Player 1 guesses a letter
+
     }
 }
