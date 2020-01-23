@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="">
+    <list default="true" id="b0f69c5d-ccdd-4dc8-a447-b8fb45db401c" name="Default Changelist" comment="Tried and succeeded adding a guessing function.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hangman/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hangman/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hangman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +96,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1579169522652</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Tried and failed to add guessing">
+      <created>1579256057591</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1579256057591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +122,8 @@
     <MESSAGE value="Added ReadMe.md" />
     <MESSAGE value="Added ReadMe" />
     <MESSAGE value="Added word storage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added word storage" />
+    <MESSAGE value="Tried and failed to add guessing" />
+    <MESSAGE value="Tried and succeeded adding a guessing function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried and succeeded adding a guessing function." />
   </component>
 </project>
