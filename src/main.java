@@ -6,35 +6,39 @@ public class main {
         //Initializing variables
         String word = (JOptionPane.showInputDialog("Please input a word")).toLowerCase();
         char[] letters = new char[word.length()];
-        int[] foundL = new int[word.length()];
-        char[] guessedL = new char[10];
+        char[] guessedL = new char[4];
 
-        char guess;
+        guessedL[2] = 'h';
+        guessedL[1] = 'l';
 
+        boolean foundL = false;
+        StringBuilder foundWord = new StringBuilder();
 
-        //Convert the input (word) into the separate characters (letters)
+        //Convert the input (word) into the separate characters (letters[])
         for (int i = 0; i < word.length(); i++) {
             letters[i] = word.charAt(i);
-            foundL[i] = 0;
         }
 
-        //Main game loop
-
-
-        //Print letters
-        StringBuilder lastG = new StringBuilder();
+        //Print guessed letters
         for (int i = 0; i < word.length(); i++) {
-            if (foundL[i] == 1) {
-                lastG.append(letters[i]).append(" ");
-            } else {
-                lastG.append("_ ");
+            for (int k = 0; k < 3; k++){
+                if (guessedL[k] == letters[i]){
+                    foundL = true;
+                    break;
+                }
             }
+            if(foundL){
+                foundWord.append(letters[i]).append(" ");
+            }
+            else{
+                foundWord.append("_ ");
+            }
+            foundL = false;
         }
-        System.out.println("\n" + "\n" + "      " + lastG);
+        System.out.println(foundWord);
+        //foundWord = new StringBuilder();
 
-        //Ask for a new guess
-        guess = JOptionPane.showInputDialog("Please input your guess").charAt(0);
+        //Player 1 guesses a letter
 
-            System.out.println(guess);
     }
 }
