@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579256677500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ord lista klar">
+      <created>1579774671802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579774671803</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ord lista klar">
+      <created>1579774874400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579774874400</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +137,7 @@
     <MESSAGE value="Added ReadMe.md" />
     <MESSAGE value="Added ReadMe" />
     <MESSAGE value="ord lista på G" />
-    <option name="LAST_COMMIT_MESSAGE" value="ord lista på G" />
+    <MESSAGE value="ord lista klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="ord lista klar" />
   </component>
 </project>
